@@ -1,0 +1,13 @@
+/home/danielbarrios76/Projects/largestprime/solution1/bin/Debug/netcoreapp3.1/solution1
+/home/danielbarrios76/Projects/largestprime/solution1/bin/Debug/netcoreapp3.1/solution1.deps.json
+/home/danielbarrios76/Projects/largestprime/solution1/bin/Debug/netcoreapp3.1/solution1.runtimeconfig.json
+/home/danielbarrios76/Projects/largestprime/solution1/bin/Debug/netcoreapp3.1/solution1.runtimeconfig.dev.json
+/home/danielbarrios76/Projects/largestprime/solution1/bin/Debug/netcoreapp3.1/solution1.dll
+/home/danielbarrios76/Projects/largestprime/solution1/bin/Debug/netcoreapp3.1/solution1.pdb
+/home/danielbarrios76/Projects/largestprime/solution1/obj/Debug/netcoreapp3.1/solution1.csprojAssemblyReference.cache
+/home/danielbarrios76/Projects/largestprime/solution1/obj/Debug/netcoreapp3.1/solution1.AssemblyInfoInputs.cache
+/home/danielbarrios76/Projects/largestprime/solution1/obj/Debug/netcoreapp3.1/solution1.AssemblyInfo.cs
+/home/danielbarrios76/Projects/largestprime/solution1/obj/Debug/netcoreapp3.1/solution1.csproj.CoreCompileInputs.cache
+/home/danielbarrios76/Projects/largestprime/solution1/obj/Debug/netcoreapp3.1/solution1.dll
+/home/danielbarrios76/Projects/largestprime/solution1/obj/Debug/netcoreapp3.1/solution1.pdb
+/home/danielbarrios76/Projects/largestprime/solution1/obj/Debug/netcoreapp3.1/solution1.genruntimeconfig.cache
